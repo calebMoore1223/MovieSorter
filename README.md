@@ -1,2 +1,3 @@
 # MovieSorter
-Uni project using linked lists and sorting, here for a keepsake and so that I can always have something to look back on.
+Uni project using linked lists and sorting
+Mainly here as a keepsake and to have something to look back on.
